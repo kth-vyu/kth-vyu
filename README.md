@@ -2,3 +2,5 @@
 --- 
   <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Kozyreva&layout=compact&&bg_color=DD000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=DD000000&hide_border=DD000000)](https://github.com/anuraghazra/github-readme-stats">
   <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=E-Kozyreva&tshow_icons=true&bg_color=DD000000&title_color=005CFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=DD000000&hide_border=DD000000)](https://github.com/anuraghazra/github-readme-stats"/>
+  
+
