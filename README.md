@@ -5,17 +5,17 @@
 ---
 <p align="left">
 <h3> Connect with me: </h3>
-<a href="https://t.me/kozyreva_k1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png" alt="kozyreva_k1" height="40" width="40" /></a>
-<a href="https://vk.com/kozyreva_k1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536582.png" alt="kozyreva_k1" height="40" width="40" /></a>
-<a href="https://www.instagram.com/kath.code" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="kath.code" height="40" width="40" /></a>
+<a href="https://t.me/kozyreva_k1" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="kozyreva_k1"/></a>
+<a href="https://vk.com/kozyreva_k1" target="blank"><img align="center" src="https://img.shields.io/badge/-Vkontakte-%232B90D9?style=for-the-badge&logo=vk&logoColor=white" alt="kozyreva_k1"/></a>
+<a href="https://www.instagram.com/kath.code" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="kath.code"/></a>
 </p>
 
 ---
 <p align="right">
 <h3> Languages and Tools:</h3>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="git"/> </a> 
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="git"/> </a> 
+<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="git"/> </a> 
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="git"/> </a> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="git""/> </a> 
 </p>
