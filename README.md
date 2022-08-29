@@ -1,6 +1,6 @@
 # Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=E-Kozyreva&color=FFCC00&style=for-the-badge&label=Visitors"/>
 
-<p align="center"><a href="https://www.codewars.com/users/E-Kozyreva"> <img src="https://www.codewars.com/users/E-Kozyreva/badges/small"/></a></p>
+<p align="center"><a href="https://www.codewars.com/users/E-Kozyreva"> <img width="35%" src="https://www.codewars.com/users/E-Kozyreva/badges/small"/></a></p>
 
 ---
 <p><img width="48%" src="https://github-readme-stats.vercel.app/api?username=E-Kozyreva&tshow_icons=true&bg_color=DD000000&title_color=DDDDDD&text_color=FFFFFF&icon_color=FFFFFF&border_color=DD000000&hide_border=DD000000/">
