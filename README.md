@@ -6,10 +6,6 @@
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=E-Kozyreva&background=00000000&dates=9B9B9B&border=00000000&ring=FFC300&fire=FFFFFF&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF"/></p>
 
 ---
-<p><img width="48%" src="https://github-readme-stats.vercel.app/api?username=E-Kozyreva&tshow_icons=true&bg_color=DD000000&title_color=DDDDDD&text_color=FFFFFF&icon_color=FFFFFF&border_color=DD000000&hide_border=DD000000/">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Kozyreva&layout=compact&&bg_color=DD000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=DD000000&hide_border=DD000000"/></p>
-
----
 <p><img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=E-Kozyreva&theme=github_dark">
 <img width="31.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=E-Kozyreva&theme=github_dark"></p>
 
