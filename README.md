@@ -10,4 +10,12 @@
 <img width="31.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=E-Kozyreva&theme=github_dark"></p>
 
 <!--START_SECTION:waka-->
+
+```text
+Python   6 hrs 33 mins   ████████████████████████▓   98.72 %
+Text     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+
 <!--END_SECTION:waka-->
