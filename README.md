@@ -5,6 +5,8 @@
 ```text
 From: 01 May 2023 - To: 08 May 2023
 
+Total Time: 9 hrs 21 mins
+
 Python   9 hrs 16 mins   ████████████████████████▓   99.08 %
 Text     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
