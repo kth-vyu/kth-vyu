@@ -1,4 +1,4 @@
-# Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=E-Kozyreva&color=F39F18&style=for-the-badge&label=Visitors"/>
+# Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FE-Kozyreva&count_bg=%23FFBE00&title_bg=%23323031&icon=powershell.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
