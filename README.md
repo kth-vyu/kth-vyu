@@ -9,3 +9,5 @@
 <p><img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=E-Kozyreva&theme=github_dark">
 <img width="31.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=E-Kozyreva&theme=github_dark"></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
